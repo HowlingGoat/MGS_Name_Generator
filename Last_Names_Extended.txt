@@ -1,0 +1,605 @@
+aardvark
+adder
+adelie penguin
+african fish eagle
+african harrier-hawk
+african penguin
+afrikaner
+akaushi
+albatross
+alligator
+alligatorfish
+alpaca
+american kestrel
+american white pelican
+anaconda
+andean condor
+angler
+angus
+anhinga
+ankole-watusi
+ant
+anteater
+antelope
+ape
+arctic tern
+argus
+armadillo
+atlantic puffin
+australasian gannet
+australian pelican
+australian white ibis
+avocet
+baboon
+badger
+bald eagle
+bandicoot
+barnacle
+barracuda
+bass
+bat
+bateleur
+bazadais
+beagle
+bear
+bearded vulture
+beaver
+bee
+beetle
+besra
+bison
+black bear
+black kite
+black vulture
+black-and-white hawk-eagle
+black-chested snake eagle
+black-collared hawk
+black-crowned night heron
+black-faced ibis
+bloodhound
+blue-footed booby
+bluejay
+boa
+boar
+boat-billed heron
+bobwhite
+boxer
+brahminy kite
+brown pelican
+buffalo
+bull snake
+bulldog
+bullhead
+bunny
+bushpig
+bustard
+butterfly
+buzzard
+cahow
+calamari
+california condor
+camel
+capercaillie
+capuchin
+caribou
+carp
+caspian cobra
+cassowary
+cat
+caterpillar
+catfish
+cattle
+cattle egret
+centipede
+chamois
+char
+cheetah
+chicken
+chihuahua
+chimaera
+chimpanzee
+chinchilla
+chinstrap penguin
+chough
+christmas frigatebird
+cicada
+civet
+clam
+coati
+cobra
+cockatoo
+cockroach
+cod
+collie
+common black hawk
+common buzzard
+common kestrel
+cooper's hawk
+coot
+copperhead
+corgi
+cormorant
+coucal
+cougar
+cow
+cowfish
+coyote
+crab
+crake
+crane
+crane hawk
+crested eagle
+crested serpent eagle
+cricket
+crocodile
+crow
+crowned eagle
+cuckoo
+curlew
+dachshund
+damselfly
+dane
+dark chanting goshawk
+dassie
+death adder
+deer
+dibatag
+dinosaur
+doberman
+dogfish
+dolphin
+donkey
+dotterel
+double-crested cormorant
+dove
+dragonfly
+duck
+dugong
+dungong
+dunlin
+eagle
+eastern imperial eagle
+echidna
+eel
+egyptian vulture
+eland
+elephant
+elephant seal
+elk
+ell
+emperor penguin
+emu
+erect-crested penguin
+escargot
+eurasian bittern
+eurasian hobby
+eurasian sparrowhawk
+eurasian spoonbill
+european honey buzzard
+european shag
+fairy penguin
+falcon
+ferret
+ferruginous hawk
+finch
+finfoot
+flamingo
+flea
+flightless cormorant
+fly
+fox
+frog
+fugu
+fulmar
+galah
+galapagos penguin
+galápagos hawk
+gator
+gaur
+gazelle
+gecko
+gentoo penguin
+gerbil
+gerenuk
+german shepherd
+giant panda
+gibbon
+giraffe
+glamingo
+glossy ibis
+gnat
+gnu
+goat
+goatfish
+golden eagle
+golden retriever
+goldfinch
+goldfish
+goliath heron
+goosander
+goose
+gorilla
+goshawk
+grasshopper
+grasshopper buzzard
+great blue heron
+great cormorant
+great frigatebird
+great white pelican
+greater adjutant
+greater kestrel
+greater spotted eagle
+grebe
+green heron
+grey goshawk
+grey heron
+griffon vulture
+grison
+grizzly
+grouse
+guan
+guanaco
+guanay cormorant
+guinea fowl
+guinea pig
+guineafowl
+gull
+gyrfalcon
+haddock
+hagfish
+halibut
+hammerkop
+hamster
+hare
+harpy eagle
+harris' hawk
+hawk
+hedgehog
+heron
+herring
+hippopotamus
+hoatzin
+hog
+holstein
+hornet
+horse
+humboldt penguin
+hummingbird
+husky
+hyena
+hyrax
+ibex
+ibis
+ibisbill
+iguana
+imperial shag
+indian black eagle
+indian vulture
+inland taipan
+jabiru
+jacana
+jack snipe
+jackal
+jaguar
+jay
+jellyfish
+junglefowl
+kagu
+kangaroo
+kangoroo
+kea
+killdeer
+king cobra
+king penguin
+king vulture
+kinkajou
+kiwis
+koala
+koel
+koi
+komodo dragon
+korhaan
+kouprey
+krait
+kudu
+kunekune
+kuroushi
+labrador
+lanner falcon
+lappet-faced vulture
+lapwing
+lark
+laughing falcon
+leaf hopper
+lemnur
+lemur
+leopard
+lice
+limpkin
+lion
+lionfish
+little bittern
+little egret
+little sparrowhawk
+lizard
+lizard buzzard
+llama
+lobster
+locust
+long-legged buzzard
+longhorn
+loris
+louse
+lynx
+lyrebird
+macaroni penguin
+macaw
+mackerel
+magellanic penguin
+magpie
+maleo
+mallard
+malleefowl
+malo kingi
+maltese
+mamba
+manatee
+mandrill
+mantis
+marabou stork
+marmoset
+marmot
+martial eagle
+masked booby
+mastiff
+mayfly
+medaka
+meerkat
+merlin
+mesite
+millipede
+mink
+mississippi kite
+mite
+mole
+monal
+mongoose
+monkey
+moonrat
+moorhen
+moose
+mosquito
+mouse
+mousebird
+narwhal
+newt
+nightingale
+northern crested caracara
+northern gannet
+northern goshawk
+northern harrier
+octopus
+okapi
+openbill
+opossum
+opposum
+orangutan
+osprey
+ostrich
+ostriches
+otter
+owl
+oyster
+paca
+pajuna
+palm-nut vulture
+panda
+pangolin
+panther
+parrot
+partridge
+peacock
+peafowl
+pelican
+penguin
+peregrine falcon
+peruvian booby
+petrel
+pheasant
+philippine eagle
+philippine hawk-eagle
+pied harrier
+pig
+pigeon
+pika
+pike
+pit viper
+platypus
+plover
+plumbeous hawk
+podolica
+polar bear
+pomeranian
+pony
+poodle
+porcupine
+porpoise
+possum
+potoroo
+prairie dog
+prairie falcon
+praying mantis
+prion
+pronghorn
+ptarmigan
+puffin
+pug
+puma
+pygmy cormorant
+pygmy falcon
+python
+quail
+quelea
+quetzal
+rabbit
+raccoon
+rail
+ram
+rat
+rattlesnake
+raven
+ray
+recluse
+red deer
+red kite
+red panda
+red-billed tropicbird
+red-shouldered hawk
+red-tailed hawk
+redshank
+reindeer
+rhino
+rhinoceros
+roach
+roadrunner
+rockhopper penguin
+romosinuano
+rook
+roseate spoonbill
+rottweiler
+royal penguin
+rufescent tiger heron
+rüppell's vulture
+sahiwal
+saiga
+saint bernard
+saki
+salamander
+salmon
+sand dollar
+sandpiper
+sanga
+sardine
+savanna hawk
+sawmphen
+scallop
+scarlet ibis
+schnauzer
+scorpion
+scorpionfish
+sea cow
+sea lion
+sea snake
+sea urchin
+seagull
+seahorse
+seal
+secretarybird
+seriema
+shark
+shearwater
+sheathbill
+sheep
+shoebill
+shrew
+shrimp
+siberian husky
+silverfish
+sindhi
+skunk
+sloth
+snail
+snail kite
+snipe
+snowcock
+solitary eagle
+sora
+spider
+spitting cobra
+spotted harrier
+springbok
+spurfowl
+squacco heron
+squid
+squirrel
+stargazer
+starling
+steller's sea eagle
+stingray
+stink bug
+stone-curlew
+stonefish
+stork
+striated heron
+sunbittern
+swainson's hawk
+swallow-tailed kite
+swan
+taipan
+tamarin
+tapir
+tarantula
+tarentaise
+tarpon
+tarsier
+tauros
+terciopelo
+termite
+tern
+terrier
+tiger
+tiger snake
+tinamou
+toad
+toadfish
+tortoise
+toucan
+tragopan
+treeshrew
+trout
+tube-eye
+tuco-tuco
+turaco
+turkey
+turkey vulture
+turtle
+uaru
+verreaux's eagle
+vicuna
+viper
+viperfish
+vontsira
+vulture
+wahlberg's eagle
+walking stick
+wallaby
+walrus
+wapiti
+wasp
+water buffalo
+waterbuck
+weasel
+wedge-tailed eagle
+weever
+weimaraner
+western marsh harrier
+whale
+whimbrel
+white hawk
+white-backed vulture
+white-crested tiger heron
+white-tailed eagle
+white-tailed tropicbird
+widow
+wolf
+wolverine
+wombat
+woodpecker
+worm
+wren
+wrybill
+yak
+yellow-eyed penguin
+yellow-headed caracara
+zebra
+zone-tailed hawk
