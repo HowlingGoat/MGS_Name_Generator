@@ -75,7 +75,6 @@ tiger
 tree frog
 viper
 vulture
-wahle
 wallaby
 wasp
 whale

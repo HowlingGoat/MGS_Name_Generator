@@ -8,9 +8,9 @@ parser.add_argument('-e', '--extended', help='Use the extended names (Not presen
 parser.add_argument('-n', help='Generate n number of names.', default=1, type=int)
 parser.add_argument('-f', '--first', help='Add custom first names files.', nargs='*')
 parser.add_argument('-l', '--last', help='Add custom last name files.', nargs='*')
-seperator_help = """"Define a custom seperator. If it's not working or not giving the desired
+separator_help = """"Define a custom separator. If it's not working or not giving the desired
  try using results 'single' or "double" quotes ' _ ' to help the parsing."""
-parser.add_argument('-s', '--seperator', help=seperator_help, default=' ')
+parser.add_argument('-s', '--separator', help=separator_help, default=' ')
 
 args = parser.parse_args()
 
@@ -18,7 +18,7 @@ n = args.n
 extended = args.extended
 args_first = args.first
 args_last = args.last
-seperator = args.seperator
+separator = args.separator
 
 
 ## First in list will alway be run, every file preceding
@@ -83,10 +83,10 @@ def generate_list(name_list, list_name):
         exit('Sorry, I could not find "%s".' % i)
 
 
-def main(count, seperator):
+def main(count, separator, extended):
     """Main loop of the script. Generate both lists, then randomly selects
     from that list depending on how much times are needed. Returns everything
-    as a list."""
+    as a list. extended can be set as true or false."""
     to_return = []
     ## Generate lists
     generate_list(first_files, first_list)
@@ -98,7 +98,7 @@ def main(count, seperator):
         rand_l = random_gen(last_list)
 
         title_name = first_list[rand_f].title() + " " + last_list[rand_l].title()
-        to_append = title_name.replace(" ", seperator)
+        to_append = title_name.replace(" ", separator)
         to_return.append(to_append)
 
     return to_return
@@ -106,7 +106,7 @@ def main(count, seperator):
 
 if __name__ == "__main__":
     ## Main loop
-    entries = main(n, seperator)
+    entries = main(n, separator, extended)
 
     for i in entries:
         print i
